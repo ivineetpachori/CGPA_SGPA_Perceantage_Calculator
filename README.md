@@ -64,16 +64,28 @@ If the user enters an invalid choice, an error message is displayed.
 Example :-
 
 Enter the marks of 5 subjects:
+
 Subject 1: 85
+
 Subject 2: 90
+
 Subject 3: 78
+
 Subject 4: 88
+
 Subject 5: 92
 
+
 Total marks: 433
+
 What would you like to calculate?
+
 1. Percentage
+   
 2. CGPA
+   
 3. SGPA
+   
 Enter your choice (1, 2, or 3): 1
+
 Percentage: 86.6%
