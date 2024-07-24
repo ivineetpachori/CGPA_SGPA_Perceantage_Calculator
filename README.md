@@ -1,4 +1,5 @@
 Explanation
+
 Input Marks:
 
 The program first defines a constant NUM_SUBJECTS representing the number of subjects (5 in this case).
